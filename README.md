@@ -1,4 +1,4 @@
-#To-Do List Web Application
+<h1>To-Do List Web Application</h1>
 This is a web application that provides a to-do list functionality, allowing users to create, read, update, and delete tasks. It also includes user registration, login, and search functionality. The application is built using Django, a Python web framework.
 
 Getting Started
